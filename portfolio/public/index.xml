@@ -6,8 +6,15 @@
     <description>Recent content on Portfolio of Shafaa</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Feb 2025 22:55:30 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 23:10:40 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Wed, 05 Feb 2025 23:10:40 -0500</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;h1 id=&#34;résumé&#34;&gt;Résumé&lt;/h1&gt;&#xA;&lt;h2 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h2&gt;</description>
+    </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
